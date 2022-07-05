@@ -1,4 +1,4 @@
-name: 'JUnit XML to Slack'
+name: 'JUnit XML to Slack Report'
 description: 'Send Junit report to Slack'
 branding:
     icon: "bell"
